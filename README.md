@@ -1,4 +1,6 @@
-### Hi there 👋
+# Ryan Bramwell
+## Bsc Software Engineering student at Univeristy of Strathclyde 
+### based in Glasgow, Scotland, United Kingdom 
 
 <!--
 **RY4N247/RY4N247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
