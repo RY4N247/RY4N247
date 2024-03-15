@@ -4,8 +4,9 @@
 ---
 
 ## Interests 
-### Java ☕
-### Ruby 🔻
+### Java  ☕
+### Ruby  🔻
+### Python 🐍
 
 
 
