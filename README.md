@@ -3,9 +3,6 @@
 #### based in Glasgow, Scotland, United Kingdom 
 ---
 
-#### 🔭 I’m currently working on the backend for my ToDoList application called TickList !
-
-
 <!--
 **RY4N247/RY4N247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
