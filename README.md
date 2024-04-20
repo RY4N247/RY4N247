@@ -3,12 +3,6 @@
 #### based in Glasgow, Scotland, United Kingdom 
 ---
 
-## Interests 
-### Java  ☕
-### Ruby  🔻
-### Python 🐍
-### Linux 🐧
-
 #### 🔭 I’m currently working on the backend for my ToDoList application called TickList !
 
 
